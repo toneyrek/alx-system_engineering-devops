@@ -1,2 +1,2 @@
 #!/bin/baah
-echo $((2#$BEST SCHOOL))
+export BEST=School
